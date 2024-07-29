@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccessBotAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d13b6745138ec7514302fe66f261ee90b4b31ba0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccessBotAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccessBotAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

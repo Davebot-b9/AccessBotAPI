@@ -3,8 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\controllers\\supportbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\controllers\\supportbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\attendanceformstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\attendanceformstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\userbranchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\userbranchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\usersupportmessagesate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\usersupportmessagesate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\startstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\startstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\requestevidencestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\requestevidencestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\requestevidenceconectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\requestevidenceconectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\requestemailstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\requestemailstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\registersolutionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\registersolutionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\menuoptionsstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\menuoptionsstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\loginoptionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\loginoptionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\loginissuestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\loginissuestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\loginissuecoordinatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\loginissuecoordinatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\iconversationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\iconversationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\evidenceuploadcheckstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\evidenceuploadcheckstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\evidenceoptionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\evidenceoptionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\evidenceerrorcheckstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\evidenceerrorcheckstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\endconversationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\endconversationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\deviceandroidstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\deviceandroidstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\attendanceoptionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\attendanceoptionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\coordinatorsolutionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\coordinatorsolutionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\states\\branchaddstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\states\\branchaddstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|c:\\users\\itzag\\documents\\projects visual studio\\accessbotapi\\accessbotapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B7E800-286A-427F-8B68-9582F48A6B09}|AccessBotAPI\\AccessBotAPI.csproj|solutionrelative:accessbotapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +98,296 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSupportMessageSate.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\UserSupportMessageSate.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\UserSupportMessageSate.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\UserSupportMessageSate.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\UserSupportMessageSate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:06:40.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserBranchState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\UserBranchState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\UserBranchState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\UserBranchState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\UserBranchState.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:06:29.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestEvidenceConectionState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\RequestEvidenceConectionState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\RequestEvidenceConectionState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\RequestEvidenceConectionState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\RequestEvidenceConectionState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:03:57.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestEmailState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\RequestEmailState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\RequestEmailState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\RequestEmailState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\RequestEmailState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:02:48.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterSolutionState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\RegisterSolutionState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\RegisterSolutionState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\RegisterSolutionState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\RegisterSolutionState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:02:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginOptionState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\LoginOptionState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\LoginOptionState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\LoginOptionState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\LoginOptionState.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:59:05.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceFormState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\AttendanceFormState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\AttendanceFormState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\AttendanceFormState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\AttendanceFormState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:33:06.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginIssueState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\LoginIssueState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\LoginIssueState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\LoginIssueState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\LoginIssueState.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:58:42.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestEvidenceState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\RequestEvidenceState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\RequestEvidenceState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\RequestEvidenceState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\RequestEvidenceState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:45:55.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\StartState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\StartState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\StartState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\StartState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:48:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginIssueCoordinatorState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\LoginIssueCoordinatorState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\LoginIssueCoordinatorState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\LoginIssueCoordinatorState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\LoginIssueCoordinatorState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:52:53.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EvidenceUploadCheckState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\EvidenceUploadCheckState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\EvidenceUploadCheckState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\EvidenceUploadCheckState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\EvidenceUploadCheckState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:52:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EvidenceOptionState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\EvidenceOptionState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\EvidenceOptionState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\EvidenceOptionState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\EvidenceOptionState.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:51:51.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EvidenceErrorCheckState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\EvidenceErrorCheckState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\EvidenceErrorCheckState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\EvidenceErrorCheckState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\EvidenceErrorCheckState.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:48:57.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuOptionsState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\MenuOptionsState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\MenuOptionsState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\MenuOptionsState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\MenuOptionsState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:04:58.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EndConversationState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\EndConversationState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\EndConversationState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\EndConversationState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\EndConversationState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:46:59.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeviceAndroidState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\DeviceAndroidState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\DeviceAndroidState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\DeviceAndroidState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\DeviceAndroidState.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:45:54.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoordinatorSolutionState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\CoordinatorSolutionState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\CoordinatorSolutionState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\CoordinatorSolutionState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\CoordinatorSolutionState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:42:51.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IConversationState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\IConversationState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\IConversationState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\IConversationState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\IConversationState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:33:57.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BranchAddState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\BranchAddState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\BranchAddState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\BranchAddState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\BranchAddState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:42:06.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AttendanceOptionState.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\AttendanceOptionState.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\States\\AttendanceOptionState.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\States\\AttendanceOptionState.cs",
+              "RelativeToolTip": "AccessBotAPI\\States\\AttendanceOptionState.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:36:28.53Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SupportBotController.cs",
-              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\Controllers\\SupportBotController.cs",
-              "RelativeDocumentMoniker": "AccessBotAPI\\Controllers\\SupportBotController.cs",
-              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\Controllers\\SupportBotController.cs",
-              "RelativeToolTip": "AccessBotAPI\\Controllers\\SupportBotController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwDcAAABEAAAA",
+              "DocumentIndex": 21,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "AccessBotAPI\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\itzag\\Documents\\Projects Visual Studio\\AccessBotAPI\\AccessBotAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "AccessBotAPI\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T20:25:55.878Z",
+              "WhenOpened": "2024-07-29T15:00:24.017Z",
               "EditorCaption": ""
             }
           ]

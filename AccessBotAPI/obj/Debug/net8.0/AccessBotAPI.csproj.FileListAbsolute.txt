@@ -30,3 +30,4 @@ C:\Users\itzag\Documents\Projects Visual Studio\AccessBotAPI\AccessBotAPI\obj\De
 C:\Users\itzag\Documents\Projects Visual Studio\AccessBotAPI\AccessBotAPI\obj\Debug\net8.0\AccessBotAPI.pdb
 C:\Users\itzag\Documents\Projects Visual Studio\AccessBotAPI\AccessBotAPI\obj\Debug\net8.0\AccessBotAPI.genruntimeconfig.cache
 C:\Users\itzag\Documents\Projects Visual Studio\AccessBotAPI\AccessBotAPI\obj\Debug\net8.0\ref\AccessBotAPI.dll
+C:\Users\itzag\Documents\Projects Visual Studio\AccessBotAPI\AccessBotAPI\obj\Debug\net8.0\AccessBotAPI.sourcelink.json
